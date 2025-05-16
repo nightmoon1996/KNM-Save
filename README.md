@@ -9,7 +9,7 @@ This script is a server-side script for Garry's Mod's DarkRP gamemode that saves
 ## Installation
 * Download the script and add it to your server's garrysmod/lua/autorun folder
 * Make sure you have the built-in sql module installed on your server (included with Garry's Mod by default)
-* Start or restart your server to load the script
+* Start or restart your server to load the scriptasdasdasd
 
 ## Credits
 Made by KanameS (Ptlpp#7831)
